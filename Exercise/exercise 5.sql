@@ -1,3 +1,4 @@
+-- Try More Queries for Practice Work.
 CREATE DATABASE XYZCOLLEGE;
 
 drop database XYZCOLLEGE;
